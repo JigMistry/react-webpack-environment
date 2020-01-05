@@ -3,5 +3,4 @@ import ReactDom from 'react-dom';
 import './index.scss';
 import App from "./App.js";
 
-
 ReactDom.render(<App/>, document.getElementById("app"));
